@@ -1,4 +1,4 @@
-# Spotify Streaming Analysis 🎧
+# Instacart Analysis 
 
 Projeto de análise exploratória de dados sobre a empresa Instacart.
 
