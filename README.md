@@ -24,7 +24,7 @@ Investigate Instacart's customer behavior patterns and shopping habits.
 ## 📁 Arquivos
 - `sales-instacart-analysis(english).ipynb` → notebook com todo o código e visualizações
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 (PORTUGUÊS)
 
 # Instacart Analysis 
