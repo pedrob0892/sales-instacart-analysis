@@ -22,9 +22,7 @@ Investigate Instacart's customer behavior patterns and shopping habits.
 [Instacart Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/Inscatart-dashboard/Painel1?publish=yes)
 
 ## 📁 Arquivos
-- `sales-instacart-analysis.ipynb` → notebook com todo o código e visualizações
-
-
+- `sales-instacart-analysis(english).ipynb` → notebook com todo o código e visualizações
 
 
 (PORTUGUÊS)
@@ -51,4 +49,4 @@ Investigar padrões de comportamento e hábitos de compra dos clientes da empres
 [Instacart Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/Inscatart-dashboard/Painel1?publish=yes)
 
 ## 📁 Arquivos
-- `sales-instacart-analysis.ipynb` → notebook com todo o código e visualizações
+- `sales-instacart-analysis(português).ipynb` → notebook com todo o código e visualizações
