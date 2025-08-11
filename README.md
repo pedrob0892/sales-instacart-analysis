@@ -16,5 +16,8 @@ Investigar padrões de comportamento e hábitos de compra dos clientes da empres
 3. Correlações e insights principais
 4. Gráficos
 
+## 📊 Dashboard (Tableau Public)
+[Instacart Dashboard](https://public.tableau.com/app/profile/pedro.bocchini/viz/Inscatart-dashboard/Painel1?publish=yes)
+
 ## 📁 Arquivos
 - `sales-instacart-analysis.ipynb` → notebook com todo o código e visualizações
